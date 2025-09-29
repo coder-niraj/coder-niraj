@@ -11,30 +11,38 @@
 leveraging modern technologies to solve complex problems and deliver scalable, user-focused solutions. Passionate
 about continuous learning and adopting new tools to improve development efficiency and product quality.
 <br/>
-Languages:
+<h4>Languages:</h4>
 <br/>
 Javascript • Python
 </br>
-Frameworks:
+<h4>Frameworks:</h4>
 <br/>
 React JS • Node JS • Express JS • Tailwind
 • SCSS • BootStrap
+<h4>
 Technologies:
+</h4>
 <br/>
 HTML • CSS
 <br/>
+<h4>
 Learning:
+</h4>
 <br/>
 Machine Learning • Web RTC • MicroSevices 
 <br/>
+<h4>
 Tools:
+</h4>
 <br/>
 Recoil JS • Redux JS • FireBase • Zustand •
 Stripe • Redis • GRPC • RebbitMQ • Babel •
 WebSockets • SocketIO • GIT• Elastic
 search • Kafka
 <br/>
+<h4>
 Database:
+</h4>
 <br/> 
 MongoDB • NOSQL • SQL
 
