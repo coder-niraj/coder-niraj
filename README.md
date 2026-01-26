@@ -54,7 +54,7 @@ MongoDB • NOSQL • SQL
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-6DA55F?style=flat&logo=Laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coder-niraj&icon=8&color=0)](https://visitcount.itsvg.in)
