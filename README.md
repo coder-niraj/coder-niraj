@@ -39,15 +39,15 @@ Nx-Monorepo • Microservice • Monolithic
 <h4>
 Realtime Tools :
 </h4>
-Socket io • webrtc • web sockets • event driven  
+Socket io • webrtc • web-sockets • event driven  
 <h4>
 development toolkit : 
 </h4>
-Redis • Elastic • Search • LangChain • HuggingFace 
+Redis • Elastic-Search • LangChain • HuggingFace 
 <h4>
 React Tools : 
 </h4>
-Redux • Recoil • RxJS • ContextToolKit • React-Hook-Form • Zustand
+Redux • Recoil • RxJS • Context-Tool-Kit • React-Hook-Form • Zustand
 
 <h4>
 Database:
