@@ -12,10 +12,9 @@ leveraging modern technologies to solve complex problems and deliver scalable, u
 about continuous learning and adopting new tools to improve development efficiency and product quality.
 <br/>
 <h4>Languages:</h4>
-Javascript • Python
+Javascript • Python • Rust • Go • Typescript • YAML
 <h4>Frameworks:</h4>
-React JS • Node JS • Express JS • Tailwind
-• SCSS • BootStrap
+React JS • Node JS • Express JS • Tailwind • Next js • MUI • SCSS • BootStrap
 <h4>
 Technologies:
 </h4>
@@ -23,19 +22,39 @@ HTML • CSS
 <h4>
 Learning:
 </h4>
-Machine Learning • Web RTC • MicroSevices 
+Machine Learning • Web RTC • MicroSevices • Transformers and NLP
 <h4>
 Tools:
 </h4>
+<h4>
+MicroServices : 
+</h4>
+GRPC • RebbitMQ • KAFKA • Google Pub/Sub 
+<h4>
+Cloud Services :
+</h4>
+Google Cloud • Firebase • AWS
+<h4>
+CodeArchitectures :
+</h4>
+Nx-Monorepo • Microservice • Monolithic
+<h4>
+Realtime Tools :
+</h4>
+Socket io • webrtc • web sockets • event driven  
+<h4>
+development toolkit : 
+</h4>
+Redis • Elastic • Search • LangChain • HuggingFace 
+<h4>
+React Tools : 
+</h4>
+Redux • Recoil • RxJS • ContextToolKit • React-Hook-Form • Zustand
 
-Recoil JS • Redux JS • FireBase • Zustand •
-Stripe • Redis • GRPC • RebbitMQ • Babel •
-WebSockets • SocketIO • GIT• Elastic
-search • Kafka
 <h4>
 Database:
 </h4>
-MongoDB • NOSQL • SQL
+MongoDB • NOSQL • PostGreSQL • MySQL
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-parekh-51b588312//) 
@@ -54,7 +73,12 @@ MongoDB • NOSQL • SQL
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-FF2D20?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-FF2D20?style=for-the-badge&logo=go&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-FF2D20?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coder-niraj&icon=8&color=0)](https://visitcount.itsvg.in)
