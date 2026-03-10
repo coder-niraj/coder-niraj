@@ -73,12 +73,10 @@ MongoDB • NOSQL • PostGreSQL • MySQL
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
 ![Rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coder-niraj&icon=8&color=0)](https://visitcount.itsvg.in)
