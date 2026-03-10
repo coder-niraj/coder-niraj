@@ -22,10 +22,8 @@ HTML • CSS
 <h4>
 Learning:
 </h4>
-Machine Learning • Web RTC • MicroSevices • Transformers and NLP
-<h4>
-Tools:
-</h4>
+Machine Learning • Transformers and NLP
+
 <h4>
 MicroServices : 
 </h4>
