@@ -12,7 +12,7 @@ leveraging modern technologies to solve complex problems and deliver scalable, u
 about continuous learning and adopting new tools to improve development efficiency and product quality.
 <br/>
 <h4>Languages:</h4>
-Javascript • Python • Rust • Go • Typescript • YAML
+Javascript • Python • Rust • Go • Typescript • YAML • PHP
 <h4>Frameworks:</h4>
 React JS • Node JS • Express JS • Tailwind • Next js • MUI • SCSS • BootStrap
 <h4>
@@ -74,6 +74,7 @@ MongoDB • NOSQL • PostGreSQL • MySQL
 ![Rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ---
