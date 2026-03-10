@@ -7,7 +7,7 @@
 ###
 
 # 💫 About Me
-📚 Full Stack Developer with 2 years of experience in designing, developing, and deploying web applications. Skilled in
+📚 Full Stack Developer with 3 years of experience in designing, developing, and deploying web applications. Skilled in
 leveraging modern technologies to solve complex problems and deliver scalable, user-focused solutions. Passionate
 about continuous learning and adopting new tools to improve development efficiency and product quality.
 <br/>
