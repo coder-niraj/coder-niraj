@@ -76,9 +76,9 @@ MongoDB • NOSQL • PostGreSQL • MySQL
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-![Rust](https://img.shields.io/badge/Rust-FF2D20?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-FF2D20?style=for-the-badge&logo=go&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-FF2D20?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coder-niraj&icon=8&color=0)](https://visitcount.itsvg.in)
